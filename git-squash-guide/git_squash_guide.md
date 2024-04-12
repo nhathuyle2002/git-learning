@@ -4,7 +4,7 @@
 
 Clone the repository from github:
 ```bash
-git clone git@github.com:codelight-co/runebeta_ord.git
+git clone <git-url>
 ```
 
 ![The commit tree (using git graph extention)](image/image1.png "The commit tree (using git graph extention)")
