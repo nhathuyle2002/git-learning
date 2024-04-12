@@ -50,7 +50,7 @@ git rebase <branch2>
 Done!
 
 ## Note!
-The last step does not need to create a new branch (branch2), can rebase branch1 to the commit id: 
+The last step does not need to create a new branch (branch2), it is redundant and we should erase branch2 after rebasing. Instead of that, can rebase branch1 directly to the commit id: 
 
 ```bash
 git rebase <commit_id>
