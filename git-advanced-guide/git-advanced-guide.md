@@ -79,3 +79,9 @@ Can use option --soft, --mixed (default) and --hard.
 
 ## 9. Git clean
 
+The git clean command is used to remove untracked files from the working directory of a Git repository. Untracked files are files that are not currently staged for a commit and are not part of the repository's history.
+
+```bash
+git clean -df
+```
+
